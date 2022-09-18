@@ -33,8 +33,11 @@ ZCZC W01 60 L05 Quiz related including studying
 ZCZC W01 10 L04 GitHub Pages related
 ZCZC W01 60 L11 Assignment #01
 ZCZC W02 100 L02 ZOOM meetings related
-ZCZC W01 25 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W02 25 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W02 70 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 45 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 100 L02 ZOOM meetings related
 ZCZC W02 10 L41 TXT/mylog.txt related
+ZCZC W02 80 L05 Quiz related including studying
+ZCZC W02 200 L12 Assignment 02
+ZCZC W02 90 L01 SCELE/Discord related
