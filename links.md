@@ -33,3 +33,14 @@ permalink: LINKS/
 
 3. [File System Internals](https://www.netbsd.org/docs/internals/en/chap-file-system.html)<br>
     This website is all about File System Internals and this website gives me an understanding of what is File System Internals.
+
+## Week 04
+
+1. [Pointer Basic](http://www.cs.fsu.edu/~myers/cgs4406/notes/pointers.html)
+    This website is about the basics of Pointer in C language and this website gives me an understanding of pointer even more.
+
+2. [Big Endian vs Little Endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian)
+    This website is about Big Endian and Little Endian, and this website makes me know uses of Big Endian and Little Endian.
+
+3. [The Difference Between Dynamic and Static Library](https://www.youtube.com/watch?v=Jzh4ZULXsvo)
+    The video is about dynamic and static library, and the difference between two of them this video makes me understand more about it.
