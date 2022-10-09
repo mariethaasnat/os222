@@ -44,3 +44,11 @@ permalink: LINKS/
 
 3. [The Difference Between Dynamic and Static Library](https://www.youtube.com/watch?v=Jzh4ZULXsvo)
     The video is about dynamic and static library, and the difference between two of them this video makes me understand more about it.
+
+## Week 05
+
+1. [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory)
+    This website is all about Virtual Memory and this website tells me more about the benefits and the limitations of using Virtual Memory.
+
+2. [Memory Allocation](https://www.baeldung.com/cs/memory-allocation)
+    This website is about the basics of Memory Allocation and this website makes me know about memory allocation and its common errors.
