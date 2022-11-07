@@ -52,3 +52,11 @@ permalink: LINKS/
 
 2. [Memory Allocation](https://www.baeldung.com/cs/memory-allocation)
     This website is about the basics of Memory Allocation and this website makes me know about memory allocation and its common errors.
+
+## Week 06
+
+1. [Threads & Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+    This github page is about the basic of Threads and Concurrency and this website gives me an understanding about threads and concurrency in operating system.
+
+2. [Operations on Processes](https://www.geeksforgeeks.org/operations-on-processes/)
+    This website is about Processes and Operations on a Process, this website tells me more about all operations on a process.
