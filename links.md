@@ -60,3 +60,14 @@ permalink: LINKS/
 
 2. [Operations on Processes](https://www.geeksforgeeks.org/operations-on-processes/)
     This website is about Processes and Operations on a Process, this website tells me more about all operations on a process.
+
+## Week 07
+
+1. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+    This website is about the basic of Process Synchronization and this website gives me an understanding about Process Synchronization.
+
+2. [Synchronization Examples](https://users.cs.duke.edu/~chase/systems/sync-examples.html)
+    This website gives some examples about Synchronization and this website makes me understand more about Synchronization.
+
+3. [Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+    This website is about the basic of Deadlock and this website gives me an understanding about Deadlock.
