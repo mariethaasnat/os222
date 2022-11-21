@@ -71,3 +71,11 @@ permalink: LINKS/
 
 3. [Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
     This website is about the basic of Deadlock and this website gives me an understanding about Deadlock.
+
+## Week 08
+
+1. [CPU Scheduling in Operating System](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+    This website is all about CPU Scheduling and this website tells me more all about Scheduling.
+
+2. [CPU Scheduling Algorithms](https://iq.opengenus.org/types-of-cpu-scheduling-algorithms/)
+    This website is about CPU Scheduling Algorithms types and this website tells the difference of CPU Algorithms.
