@@ -79,3 +79,11 @@ permalink: LINKS/
 
 2. [CPU Scheduling Algorithms](https://iq.opengenus.org/types-of-cpu-scheduling-algorithms/)
     This website is about CPU Scheduling Algorithms types and this website tells the difference of CPU Algorithms.
+
+## Week 09
+
+1. [Mass Storage Management](https://www.tutorialspoint.com/Mass-Storage-Management)
+    This website is all about Mass Storage Management and this website tells me more all about Mass Storage Management.
+
+2. [Boot Manager](https://www.techtarget.com/searchdatacenter/definition/boot-loader-boot-manager#:~:text=A%20boot%20loader%2C%20also%20called,of%20a%20computer%20into%20memory.)
+    This website is all about Boot Loader and this website tells me more all about Boot Loader.
